@@ -30,51 +30,9 @@ cd <repository-directory>
 ```
 Replace `<repository-url>` with the URL of your repository and `<repository-directory>` with the directory name of your cloned project.
 
-### Step 2: Create a Virtual Environment (Optional but Recommended)
-
-If you want to use a virtual environment, create one by running:
-
-#### For Windows
-```bash
-python -m venv venv
-```
-
-#### For macOS/Linux
-```bash
-python3 -m venv venv
-```
-
-### Step 3: Activate the Virtual Environment
-
-Activate the virtual environment:
-#### For Windows
-```venv\Scripts\activate```
-
-#### For macOS/Linux
-```source venv/bin/activate```
-
-### Step 4: Install Dependencies
-
-Install the required packages listed in requirements.txt:
-
-```bash
-pip install -r requirements.txt
-```
-
-### Step 5: Run the Project
-
-After installing the dependencies, you can run the project. The specific command will depend on your project setup. For example:
-
-```bash
-python main.py
-```
-
-Replace main.py with the entry point of your application.
 
 ### Additional Notes
 
-- Ensure you have all necessary configurations set up in your environment (e.g., environment variables, configuration files).
-- If you encounter any issues, refer to the documentation or open an issue in the repository.
 
 ### Contributers:
 ---
@@ -87,11 +45,6 @@ Replace main.py with the entry point of your application.
                 <sub><b>Christopher Thomas</b></sub>
             </a>
         </td>
-        <td align="center" valign="top" width="14.28%">
-            <a href="https://github.com/Harvestminer">
-                <img src="https://avatars.githubusercontent.com/u/20891246?v=4?s=100" width="100px;" alt="Tyler Wesley"/>
-                    <br />
-                <sub><b>Tyler Wesley</b></sub>
             </a>
         </td>
     </tbody>
