@@ -1,7 +1,5 @@
 # SJA-Mr.Smith
 Turning Mr. Smith from The Sarah Jane Adventures from fiction into reality.
-
-  Welcome
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
